@@ -1,6 +1,6 @@
 # Classificador de Nível de Herói
 
-Este projeto faz parte de um curso da [DIO](https://github.com/digitalinnovationone), com aulas ministradas por [Felipe Aguiar](https://github.com/felipeAguiarCode).
+Este projeto foi proposto em um curso da [DIO](https://github.com/digitalinnovationone), com aulas ministradas por [Felipe Aguiar](https://github.com/felipeAguiarCode).
 
 ## Objetivo
 
